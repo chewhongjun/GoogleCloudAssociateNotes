@@ -35,14 +35,22 @@ Introduction Lecture:
 - Software as a service (SAAS)
 
 
-GCP Dashboard
+*GCP Dashboard*
 
 Try it out!
 Project name is not unique but project name is
 [GCP dashboard](https://console.cloud.google.com/home/dashboard)
 
-Billing Account & Project 
+*Billing Account & Project*
+ 
+- Each project has to be binded to a billing account!
+- Conversely you can choose a particular account for a project
 
+*Creating a Virtual Machine*
+
+- To do so we use Google Compute Engine, GCE.
+- Create VM instance
+..- Configuration Guide
 
 https://youtu.be/JtUIQz_EkUw?t=1539
 
