@@ -37,9 +37,9 @@ Introduction Lecture:
 
 GCP Dashboard
 
-Try it out!
-Project name is not unique but project name is
-[GCP dashboard](https://console.cloud.google.com/home/dashboard)
+...Try it out!
+...Project name is not unique but project name is  
+...[GCP dashboard](https://console.cloud.google.com/home/dashboard)  
 
 Billing Account & Project 
 
