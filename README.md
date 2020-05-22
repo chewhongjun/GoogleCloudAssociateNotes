@@ -24,7 +24,7 @@ Lets see where this takes us!
 ---
 Week 0
 --- 
-Introduction Lecture:  
+*Introduction Lecture:*  
 [An Introduction to GCP for Students](https://www.youtube.com/watch?v=JtUIQz_EkUw&feature=youtu.be)  
 
 - History & Motivations for cloud
@@ -35,13 +35,35 @@ Introduction Lecture:
 - Software as a service (SAAS)
 
 
-GCP Dashboard
+*GCP Dashboard*
 
-...Try it out!
-...Project name is not unique but project name is  
-...[GCP dashboard](https://console.cloud.google.com/home/dashboard)  
+Try it out!  
+The given Project name may not unique but project name is  
+[GCP dashboard](https://console.cloud.google.com/home/dashboard)  
 
-Billing Account & Project 
+*Billing Account & Project*
+
+For each project you create, there must be a billing account attached to it and this billing account can be different for different projects in the google account
+
+- Each project has to be binded to a billing account!
+- Conversely you can choose a particular account for a project
+
+*Creating a Virtual Machine (VM)*
+
+- think of a vm like a mini computer with its own memory space and kernal(Operating System)
+- in reality a single computer/server can spin up many of these virtual machines
+- _To Spin up a vm in GCP_  
+	- Google Compute Enginer, GCE (Right handside of the dashboard)
+	- This process can take awhile
+	- you can now specifcy the specs of this vm instance
+	- which includes disk image
+	- Region < Zone 
+
+*Interesting Resources*
+[Codelabs](https://codelabs.developers.google.com/)
+- Which is a practical learning site for learning to use gcp
+
+- To access
 
 
 https://youtu.be/JtUIQz_EkUw?t=1539
